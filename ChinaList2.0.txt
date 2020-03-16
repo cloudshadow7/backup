@@ -1,7 +1,7 @@
 [Adblock Plus 2.1]
-! Version: 20191126000
-! Title:  ChinaListV2.0[20191126000]
-! Last modified: 2019/11/26 17:21:39 +0800
+! Version: 20200316000
+! Title:  ChinaListV2.0[20200316000]
+! Last modified: 2020/03/16 20:20:00 +0800
 ! Email: yiclear@aliyun.com
 ! Homepage: http://www.yiclear.com
 -1688-wp-media/ads/
@@ -13615,12 +13615,6 @@ v.baidu.com#%#if (document.cookie.indexOf("fee_status=true")==-1){document.cooki
 atm.youku.com/vf?vip=0*$redirect=atm.youku.com/vf?vip=1
 @@||atm.youku.com/vf?vip=1$domain=video.tudou.com|youku.com
 @@||atm.youku.com/crossdomain.xml
-|http://f.v.17173cdn.com/*/Player_stream.swf$redirect=http://tools.yiclear.com/swf/17173/17173.in.Live.swf
-|http://f.v.17173cdn.com/*/Player_stream_customOut.swf$redirect=http://tools.yiclear.com/swf/17173/17173.out.Live.swf
-|http://f.v.17173cdn.com/*/Player_stream_firstpage.swf$redirect=http://tools.yiclear.com/swf/17173/17173.in.Live.swf
-|http://f.v.17173cdn.com/*/Player_stream_Out.swf$redirect=http://tools.yiclear.com/swf/17173/17173.out.Live.swf
-|http://f.v.17173cdn.com/*/PreloaderFile.swf$redirect=http://tools.yiclear.com/swf/17173/17173.in.Vod.swf
-|http://f.v.17173cdn.com/*/PreloaderFileFirstpage.swf$redirect=http://tools.yiclear.com/swf/17173/17173.out.Vod.swf
 sohu.com#%#if (document.cookie.indexOf("fee_status=true")==-1){document.cookie='fee_status=true'};
 ws://*/ws$domain=iqiyi.com,third-party,websocket
 @@//*/videos/other/*.f4v

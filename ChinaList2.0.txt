@@ -1,7 +1,7 @@
 [Adblock Plus 2.1]
-! Version: 20200316000
-! Title:  ChinaListV2.0[20200316000]
-! Last modified: 2020/03/16 20:20:00 +0800
+! Version: 20200414
+! Title:  ChinaListV2.0[20200414]
+! Last modified: 2020/04/14 21:00:00 +0800
 ! Email: yiclear@aliyun.com
 ! Homepage: http://www.yiclear.com
 -1688-wp-media/ads/
@@ -17692,3 +17692,6 @@ fqsousou.com,kengso.com#@#.user-share
 ||webp2p.letv.com
 ||letvimg.com/$object-subrequest
 ||letvimg.com/gugwl/201*.jpg
+v.qq.com##.txp_ad.txp_ad_center
+||jpg.mengbingyuan.com^
+||xn--wxtr9fwyxk9c.art^

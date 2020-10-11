@@ -1426,6 +1426,7 @@ ubmcmm.baidustatic.com
 ||ad-plus.cn^$third-party
 ||ad-survey.com^$third-party
 ||ad.52av.tv^
+||ad.ettoday.net^
 ||ad000000.com^
 ||ad8.cc^$third-party
 ||ad9377.com^
@@ -5326,10 +5327,10 @@ _yad_jsonp_
 ||etnet.com.hk/ad2014/
 ||etnet.com.hk/www/tc/stocks/ads/
 ||ettoday.net/banners/
-||ettoday.net/events/ad-tab/
+||ettoday.net/ad-tab/
 ||ettoday.net/funfuntrip/
 ||ettoday.net/style/hot-trip/js/travel-action.js
-||ettoday.net^*/ad/
+||ettoday.net/ad/
 ||everyonepiano.cn/Public/*0x
 ||eyusky.net/weixin-img/zhifubao.jpg
 ||eyuyao.com/yyad/

@@ -17701,3 +17701,22 @@ youtube.com##.ytp-ad-image-overlay
 youtube.com##.ytp-ad-text-overlay
 matools.com###topAd
 tv.oopw.top##DIV:nth-child(2) > IFRAME:last-child
+###pop_ad
+###HMRichBox
+##.ads.ads-top
+###btw-mask
+dy10000.com###hbidbox
+zlyk.com###gdw
+dy2018.com###header > DIV.contain > DIV.bd2:last-child > DIV:nth-child(4)
+dy2018.com###tbmov-notice
+6090ba.com###btw-modal
+1090ys2.com##DIV.container:nth-child(3) > DIV.row > P:nth-child(2)
+1090ys2.com##DIV.container:nth-child(3) > DIV.row > DIV.col-lg-wide-8.col-xs-1.padding-0:nth-child(3) > P:nth-child(2)
+gimy.tv##.dabox2
+gufengmh8.com##.w996
+dy2018.com###header > DIV.contain > DIV.bd2:last-child > DIV.bd3 > DIV:nth-child(9)
+mangabz.com###bb1
+mangabz.com##.jjjjasdasd
+mangabz.com###cc1
+ulzdk.com##.jjjjasdasd
+ulzdk.com###gdw

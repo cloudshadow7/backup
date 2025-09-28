@@ -697,6 +697,7 @@ _xiuno_com_ad/
 ##.banner-ad-section
 ##.bdyp-sygg-ul
 ##.below_ads
+##.big_ad
 ##.bm.a_c
 ##.bn728-100
 ##.bn728-93
@@ -2623,6 +2624,7 @@ ubmcmm.baidustatic.com
 ||pzrj6.top^
 ||qbyy010.com^
 ||qchannel03.cn^$third-party
+||qciss.net^
 ||qclcdn.cn^
 ||qcupup.com^
 ||qdchunyu.com^
